@@ -4,3 +4,15 @@
 2024-08-30 10:00:06,932 - INFO - Starting the repository analysis script.
 2024-08-30 10:00:06,933 - INFO - Fetching popular repositories
 2024-08-30 10:00:06,933 - INFO - Processing page 1
+2024-08-30 10:06:50,173 - INFO - Starting the repository analysis script.
+2024-08-30 10:06:50,173 - INFO - Fetching popular repositories
+2024-08-30 10:06:50,173 - INFO - Processing page 1
+2024-08-30 10:09:06,600 - INFO - Running command: git -C ./scrape-python-data add .
+2024-08-30 10:09:06,604 - ERROR - Command failed with return code 128
+2024-08-30 10:09:06,604 - ERROR - Error output:
+fatal: cannot change to './scrape-python-data': No such file or directory
+
+2024-08-30 10:09:44,220 - INFO - Starting the repository analysis script.
+2024-08-30 10:09:44,220 - INFO - Fetching popular repositories
+2024-08-30 10:09:44,220 - INFO - Processing page 1
+2024-08-30 10:12:06,374 - INFO - Running command: git add .

@@ -22,3 +22,7 @@ fatal: cannot change to './scrape-python-data': No such file or directory
 2024-08-30 10:28:10,878 - INFO - Connecting to the GitHub repository.
 2024-08-30 10:28:12,674 - INFO - popular_python_repos.jsonl exists in the repository, updating the file.
 2024-08-30 10:28:14,007 - INFO - popular_python_repos.jsonl UPDATED
+2024-08-30 10:36:14,071 - INFO - Starting the repository analysis script.
+2024-08-30 10:36:14,071 - INFO - Fetching popular repositories
+2024-08-30 10:36:14,072 - INFO - Processing page 1
+2024-08-30 10:39:04,723 - INFO - Running command: git add .
